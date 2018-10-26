@@ -29,6 +29,8 @@ namespace BaltaStore.Tests
 
             order.Place();
 
+            var valida = order.Valid;
+
             order.Pay();
 
             order.Ship();
