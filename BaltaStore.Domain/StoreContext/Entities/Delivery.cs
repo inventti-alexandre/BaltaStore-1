@@ -1,10 +1,11 @@
 using BaltaStore.Domain.StoreContext.Enums;
+using BaltaStore.Shared.Entities;
 using FluentValidator;
 using System;
 
 namespace BaltaStore.Domain.StoreContext.Entities
 {
-    public class Delivery : Notifiable
+    public class Delivery : Entity
     {
         //ctor
         public Delivery(DateTime estimatedDeliveryDate)

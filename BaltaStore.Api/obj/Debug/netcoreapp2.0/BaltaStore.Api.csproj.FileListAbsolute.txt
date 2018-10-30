@@ -1,11 +1,4 @@
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.deps.json
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.json
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.dev.json
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.dll
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.pdb
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csprojAssemblyReference.cache
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csproj.CoreCompileInputs.cache
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfoInputs.cache
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfo.cs
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.dll
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.pdb

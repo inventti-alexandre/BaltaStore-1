@@ -1,9 +1,4 @@
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.deps.json
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.dll
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.pdb
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csprojAssemblyReference.cache
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csproj.CoreCompileInputs.cache
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfoInputs.cache
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfo.cs
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.dll
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.pdb

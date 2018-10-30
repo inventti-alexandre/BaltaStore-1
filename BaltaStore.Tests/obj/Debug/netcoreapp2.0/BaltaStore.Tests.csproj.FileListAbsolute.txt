@@ -1,17 +1,4 @@
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.deps.json
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.runtimeconfig.json
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.runtimeconfig.dev.json
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.dll
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.pdb
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csprojAssemblyReference.cache
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csproj.CoreCompileInputs.cache
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.AssemblyInfoInputs.cache
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.AssemblyInfo.cs
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.dll
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.pdb
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Domain.dll
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Domain.pdb
-C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csproj.CopyComplete
