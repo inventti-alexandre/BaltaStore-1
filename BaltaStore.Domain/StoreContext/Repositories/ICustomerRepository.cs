@@ -10,5 +10,6 @@ namespace BaltaStore.Domain.StoreContext.Repositories
         bool CheckDocument(string document);
         bool CheckEmail(string email);
         void Save(Customer customer);
+
     }
 }

@@ -6,3 +6,4 @@ C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Inf
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfo.cs
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.dll
 C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.pdb
+C:\Users\07154205423\Documents\REPOSITORIO\study\balta\BaltaStore\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.csprojAssemblyReference.cache
